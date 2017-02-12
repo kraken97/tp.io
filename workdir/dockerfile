@@ -1,0 +1,5 @@
+from node 
+ add ./ /var 
+ run node /var/main.js
+
+
